@@ -1,4 +1,4 @@
-##Hola 👋, soy Tomás Real
+Hola 👋, soy Tomás Real
 🔭 Actualmente estoy en búsqueda de nuevas oportunidades laborales. Si te interesa colaborar conmigo o necesitas contactarme, abajo encontrarás mis datos de contacto.
 
 🤓 Soy desarrollador backend con experiencia en Node.js, Nest.js y TypeScript, y también cuento con experiencia en desarrollo frontend.
