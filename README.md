@@ -1,16 +1,21 @@
-## Hi there 👋
+Hola 👋, soy Tomás Real
+🔭 Actualmente estoy en búsqueda de nuevas oportunidades laborales. Si te interesa colaborar conmigo o necesitas contactarme, abajo encontrarás mis datos de contacto.
 
-<!--
-**TomasReal/TomasReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Soy desarrollador backend con experiencia en Node.js, Nest.js y TypeScript, y también cuento con experiencia en desarrollo frontend.
 
-Here are some ideas to get you started:
+💬 Pregúntame sobre Node.js, Nest.js, TypeScript, TypeOrm, Prisma, Express, así como React, Redux y Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Puedes contactarme por correo electrónico en vrtomas1@gmail.com o por teléfono al +54 3584 843 317. También puedes conectarte conmigo en LinkedIn.
+
+Tecnologías y Herramientas
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TypeORM-6B5B95?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
