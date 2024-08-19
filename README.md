@@ -1,4 +1,4 @@
-Hola 👋, soy Tomás Real
+# **Hola 👋, soy Tomás Real**
 🔭 Actualmente estoy en búsqueda de nuevas oportunidades laborales. Si te interesa colaborar conmigo o necesitas contactarme, abajo encontrarás mis datos de contacto.
 
 🤓 Soy desarrollador backend con experiencia en Node.js, Nest.js y TypeScript, y también cuento con experiencia en desarrollo frontend.
@@ -18,4 +18,6 @@ Tecnologías y Herramientas
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
