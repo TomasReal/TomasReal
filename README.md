@@ -5,7 +5,7 @@
 
 💬 Pregúntame sobre Node.js, Nest.js, TypeScript, TypeOrm, Prisma, Express, así como React, Redux y Bootstrap.
 
-📫 Puedes contactarme por correo electrónico en vrtomas1@gmail.com o por teléfono al +54 3584 843 317. También puedes conectarte conmigo en LinkedIn.
+📫 Puedes contactarme por correo electrónico en vrtomas1@gmail.com o por teléfono al +54 3584 843 317. También puedes conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-valentino-real-385281147/).
 
 Tecnologías y Herramientas
 <p align="center">
