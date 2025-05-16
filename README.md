@@ -1,7 +1,7 @@
 # **Hola 👋, soy Tomás Real**
 🔭 Actualmente estoy en búsqueda de nuevas oportunidades laborales. Si te interesa colaborar conmigo o necesitas contactarme, abajo encontrarás mis datos de contacto.
 
-🤓 Soy desarrollador backend con experiencia en Node.js, Nest.js y TypeScript, y también cuento con experiencia en desarrollo frontend.
+🤓 Soy desarrollador Full-stack con experiencia en Node.js, Nest.js y TypeScript, y tecnologías modernas de desarrollo frontend tales como: React Js, Next Js, Tailwind CSS.
 
 💬 Pregúntame sobre Node.js, Nest.js, TypeScript, TypeOrm, Prisma, Express, así como React, Redux y Bootstrap.
 
